@@ -1,7 +1,7 @@
 package com.estore.bean;
 
 import java.io.Serializable;
-
+// This comment written akash
 public class Customer implements Serializable{
 	int id;
 	String name;
